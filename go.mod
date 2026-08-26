@@ -1,6 +1,8 @@
 module github.com/dal-go/dalgo2git
 
-go 1.27.0
+go 1.26.0
+
+toolchain go1.27.0
 
 require github.com/go-git/go-git/v5 v5.16.2
 
